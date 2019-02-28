@@ -1,2 +1,2 @@
-# NETFLIX
-Rules for surge3
+# Rules for surge3
+
